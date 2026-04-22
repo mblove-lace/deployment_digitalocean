@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['168.144.84.46']
+ALLOWED_HOSTS = ['www.naavyaa.in']
 
 
 # Application definition
